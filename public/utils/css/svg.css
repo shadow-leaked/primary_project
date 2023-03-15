@@ -1,0 +1,44 @@
+svg {
+  font-size: 150px;
+  padding-top: 7%;
+}
+
+.copy {
+  fill: none;
+  stroke-width: 3px;
+  stroke: #fff;
+  stroke-dasharray: 8% 30%;
+  stroke-dashoffset: 0%;
+  animation: textanimation 6s linear infinite;
+}
+
+@keyframes textanimation {
+  100% {
+    stroke-dashoffset: -35%;
+  }
+}
+
+.copy1 {
+  stroke: #ffffff;
+  animation-delay: -1s;
+}
+
+.copy2 {
+  stroke: #8ef193;
+  animation-delay: -2s;
+}
+
+.copy3 {
+  stroke: #fba6a6;
+  animation-delay: -3s;
+}
+
+.copy4 {
+  stroke: #adfaff;
+  animation-delay: -4s;
+}
+
+.copy5 {
+  stroke: #fff5c7;
+  animation-delay: -5s;
+}

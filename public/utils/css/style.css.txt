@@ -1,0 +1,339 @@
+/* Background */
+body {
+  position: absolute;
+  width: 1990px;
+  height: 4298px;
+  left: -10px;
+  top: 102px;
+  background: #11071f;
+}
+
+/* Header */
+.header {
+  position: absolute;
+  width: 1980px;
+  height: 113px;
+  left: 0px;
+  top: 0px;
+  background: #1a0b2e;
+  box-shadow: 0px 6px 22px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* IC.NET */
+.logo_lo {
+  position: absolute;
+  width: 179px;
+  height: 46px;
+  left: 578px;
+  top: 38px;
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.42em;
+  background: linear-gradient(91.69deg, #ff00e5 6.57%, #8000ff 102.51%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+/* Group Header Button */
+.nav-links {
+  position: absolute;
+  width: 577px;
+  height: 52px;
+  left: 1087px;
+  top: 32px;
+}
+
+.body-container {
+  display: flex;
+  position: absolute;
+}
+
+.info-container {
+  position: absolute;
+  width: 385px;
+  height: 431px;
+  left: 475px;
+  top: 233px;
+}
+
+/* LOGO */
+.info-container img {
+  width: 240px;
+  border-radius: 50%;
+  border: 2px solid #00fdea;
+}
+
+.info-container .info-box {
+  position: absolute;
+  width: 695px;
+  height: 196px;
+  left: 976px;
+  top: 296px;
+}
+
+/* Developed web.hr landing page which is utilized in 25,000+ companies. */
+
+position: absolute;
+width: 820px;
+height: 40px;
+left: -3977px;
+top: 1066px;
+
+font-family: "Preahvihear";
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 40px;
+
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+/* I'm a Software Engineer. */
+
+position: absolute;
+width: 479px;
+height: 63px;
+left: -6366px;
+top: 301px;
+
+font-family: "Poor Story";
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 62px;
+
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+/* I'm a Software Engineer. */
+
+position: absolute;
+width: 593px;
+height: 60px;
+left: -5981px;
+top: 627px;
+
+font-family: "PoetsenOne";
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+/* LinkedIn >> Behance >> Dribbble >> Instagram >> logo */
+
+position: absolute;
+width: 214px;
+height: 648px;
+left: -4592px;
+top: 1884px;
+
+font-family: "Preahvihear";
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 72px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+/* WebHR Logo (vectorized) */
+
+position: absolute;
+width: 4096px;
+height: 1419px;
+left: -13600px;
+top: -4176px;
+
+/* IC.NET is a Decentralized Network */
+
+position: absolute;
+width: 1239px;
+height: 63px;
+left: 474px;
+top: 756px;
+
+font-family: "Roboto Serif";
+font-style: normal;
+font-weight: 400;
+font-size: 54px;
+line-height: 63px;
+display: flex;
+align-items: center;
+letter-spacing: 0.16em;
+
+color: #ffffff;
+
+/* As a web3.0 based social media platform, IC.NET is completely decentralized, which means that it is built on a collection of decentralized protocols and networks run by network participants worldwide. This makes the platform more secure and private as users have complete control over their data and can be assured that their privacy is protected. Unlike centralized social networks in Web 2.0, the networks in Web 3.0 are entirely decentralized and owned by the community. The benefits of using a decentralized social media platform like IC.NET include greater transparency, security, privacy, and control over personal data. */
+
+position: absolute;
+width: 1206px;
+height: 374px;
+left: 475px;
+top: 929px;
+
+font-family: "Preahvihear";
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 49px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #ffffff;
+
+/* Contact */
+
+position: absolute;
+width: 155px;
+height: 99px;
+left: 460px;
+top: 3314px;
+
+font-family: "Preahvihear";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 43px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #ffffff;
+
+/* I'm currently looking to join a cross-functional team that values improving people's lives through accessible design. or have a project in mind? Let's connect. ibrhaimmemon930@gmail.com */
+
+position: absolute;
+width: 1015px;
+height: 238px;
+left: 453px;
+top: 3413px;
+
+font-family: "Preahvihear";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 43px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #ffffff;
+
+/* Me */
+
+position: absolute;
+visibility: hidden;
+width: 266px;
+height: 269px;
+left: 437px;
+top: 309px;
+
+/* Group 1940 */
+
+position: absolute;
+width: 1520px;
+height: 1394px;
+left: 296px;
+top: 1605px;
+
+/* Rectangle 986 */
+
+position: absolute;
+width: 1980px;
+height: 422px;
+left: 66px;
+top: 3887px;
+
+background: radial-gradient(
+  50% 50% at 50% 50%,
+  #372157 0%,
+  rgba(41, 26, 63, 0) 100%
+);
+
+/* Rectangle 989 */
+
+position: absolute;
+width: 176px;
+height: 45px;
+left: 581px;
+top: 39px;
+
+background: #290260;
+
+/* Independent Chain Of Network */
+
+position: absolute;
+width: 1283px;
+height: 88px;
+left: calc(50% - 1283px / 2 + 96.5px);
+bottom: 302px;
+
+font-family: "Roboto Serif";
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 126.66%;
+
+/* or 63px */
+display: flex;
+align-items: center;
+letter-spacing: 0.35em;
+
+color: #ffffff;
+
+/* Copyright © 2023 */
+
+position: absolute;
+width: 528px;
+height: 58px;
+left: 823px;
+top: 4098px;
+
+font-family: "Roboto Serif";
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 126.66%;
+
+/* or 63px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #ffffff;
+
+/* Group 1941 */
+
+position: absolute;
+width: 133.82px;
+height: 46px;
+left: 453px;
+top: 3696px;
