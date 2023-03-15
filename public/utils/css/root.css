@@ -3,10 +3,11 @@
 
 /* ROOT VARIABLES */
 :root {
-  --header-height: 4rem;
+  --header-height: 6rem;
 
   /* main colors */
   --bg-color: #11071f;
+  --other-bg: #1A0B2E;
   --text-color: #fff;
 
   /* fonts settings */
