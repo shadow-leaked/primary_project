@@ -6,14 +6,8 @@
   --header-height: 4rem;
 
   /* main colors */
-  --title-color: hsl(var(--hue-color), 8%, 15%);
-  --text-color: hsl(var(--hue-color), 8%, 45%);
-  --text-color-light: hsl(var(--hue-color), 8%, 65%);
-  --input-color: hsl(var(--hue-color), 70%, 96%);
-  --body-color: hsl(var(--hue-color), 60%, 99%);
-  --container-color: #fff;
-  --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
-  --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
+  --bg-color: #11071f;
+  --text-color: #fff;
 
   /* fonts settings */
   --body-font: "Poppins", sans-serif;
@@ -71,16 +65,18 @@ body {
   margin: 0 0 var(--header-height) 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  /* background-color: var(--body-color); */
-  background-color: #11071f;
+  background-color: var(--bg-color);
 }
 
 h1,
 h2,
 h3,
 h4 {
-  color: var(--title-color);
   font-weight: var(--font-semi-bold);
+}
+
+p {
+  color: var(--text-color);
 }
 
 ul {
